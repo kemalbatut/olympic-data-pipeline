@@ -1,0 +1,13 @@
+*.csv
+*.pyc
+*.pyo
+.DS_Store
+__pycache__/
+
+# used for testing functions
+sandbox.py
+
+# ignore testing files
+*.ipynb"__pycache__/" 
+"*.pyc" 
+".DS_Store" 
